@@ -1,0 +1,38 @@
+{
+  "frame_id": 3,
+  "name": "Test 4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "5. Naple Yellow"
+    },
+    {
+      "trait_type": "Accessories ",
+      "value": "backpack 1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Accessories ",
+      "value": "backpack 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Expressions",
+      "value": "2. hahahaha"
+    },
+    {
+      "trait_type": "Atrributes",
+      "value": "Cigarette"
+    }
+  ]
+}

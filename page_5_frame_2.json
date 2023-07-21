@@ -1,0 +1,34 @@
+{
+  "frame_id": 2,
+  "name": "Test 3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "9. Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Accessories ",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Atrributes",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Expressions",
+      "value": "2. Aghrrr"
+    }
+  ]
+}
