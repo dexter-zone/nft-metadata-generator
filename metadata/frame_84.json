@@ -1,0 +1,34 @@
+{
+  "frame_id": 84,
+  "name": "Dex 95",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "2. Azure"
+    },
+    {
+      "trait_type": "6. Body",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "5. Accessories ",
+      "value": "BUttons"
+    },
+    {
+      "trait_type": "4. Head",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "1. Ears",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "3. Expressions",
+      "value": "1. Crying"
+    },
+    {
+      "trait_type": "2. Atrributes",
+      "value": "No Attribute"
+    }
+  ]
+}

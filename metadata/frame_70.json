@@ -1,0 +1,34 @@
+{
+  "frame_id": 70,
+  "name": "Dex 20",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "10. Brilliant Rose"
+    },
+    {
+      "trait_type": "6. Body",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "5. Accessories ",
+      "value": "BUttons"
+    },
+    {
+      "trait_type": "4. Head",
+      "value": "Reflection"
+    },
+    {
+      "trait_type": "1. Ears",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "3. Expressions",
+      "value": "No Expression"
+    },
+    {
+      "trait_type": "2. Atrributes",
+      "value": "No Attribute"
+    }
+  ]
+}

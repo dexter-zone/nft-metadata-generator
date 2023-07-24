@@ -1,0 +1,34 @@
+{
+  "frame_id": 97,
+  "name": "NFT 171",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "1. Ivory"
+    },
+    {
+      "trait_type": "6. Body",
+      "value": "Dual Tone"
+    },
+    {
+      "trait_type": "5. Accessories ",
+      "value": "No Accessory"
+    },
+    {
+      "trait_type": "4. Head",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "1. Ears",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "3. Expressions",
+      "value": "No Expression"
+    },
+    {
+      "trait_type": "2. Atrributes",
+      "value": "No Attribute"
+    }
+  ]
+}

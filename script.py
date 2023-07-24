@@ -26,9 +26,12 @@ def get_frames_and_layers(figma_file_key, personal_access_token, page_id):
                         'attributes': get_frame_layers(frame),
                     }
 
+                    if not os.path.exists('metadata'):
+                        os.makedirs('metadata')
                     # Dump the frames_data to a JSON file
-                    output_filename = f"page_{page_id}_frame_{frame_id}.json"
-                    with open(output_filename, 'w') as f:
+                    output_filename = f"frame_{frame_id}.json"
+                    file_path = os.path.join('metadata', output_filename)
+                    with open(file_path, 'w') as f:
                         json.dump(frame_data, f, indent=2)
 
                     print(
@@ -70,6 +73,6 @@ if __name__ == "__main__":
     load_dotenv()
     figma_file_key = os.getenv("FIGMA_FILE_KEY")
     personal_access_token = os.getenv("FIGMA_API_KEY")
-    page_id = 5
+    page_id = 3
 
     get_frames_and_layers(figma_file_key, personal_access_token, page_id)

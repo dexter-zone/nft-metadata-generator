@@ -1,0 +1,26 @@
+{
+  "frame_id": 17,
+  "name": "Dex 73",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "4. Indigo"
+    },
+    {
+      "trait_type": "6. Body",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "5. Accessories ",
+      "value": "BUttons"
+    },
+    {
+      "trait_type": "4. Head",
+      "value": "Reflection"
+    },
+    {
+      "trait_type": "1. Ears",
+      "value": "Standard"
+    }
+  ]
+}
