@@ -46,7 +46,7 @@ def get_frames_and_layers(figma_file_key, personal_access_token, page_id):
 
 
 def get_frame_layers(node):
-    if node['type'] == 'COMPONENT' or node['type'] == 'INSTANCE':
+    if (node['type'] == 'COMPONENT' or node['type'] == 'INSTANCE') and get_component_property_names(node) not in ["No Attribute", "No Expression", "No Accessory", "No ears"]:
         if node['name'].startswith(('0.', '1.', '2.', '3.', '4.', '5.', '6.', '7.', '8.', '9.')):
             node['name'] = node['name'].split('.', 1)[1].strip()
         return [{"trait_type": node['name'], "value": get_component_property_names(node)}]
