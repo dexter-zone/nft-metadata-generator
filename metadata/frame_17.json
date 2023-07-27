@@ -4,23 +4,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "4. Indigo"
+      "value": "Indigo"
     },
     {
-      "trait_type": "6. Body",
+      "trait_type": "Body",
       "value": "Standard"
     },
     {
-      "trait_type": "5. Accessories ",
-      "value": "BUttons"
-    },
-    {
-      "trait_type": "4. Head",
+      "trait_type": "Head",
       "value": "Reflection"
     },
     {
-      "trait_type": "1. Ears",
-      "value": "Standard"
+      "trait_type": "Accessories",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Sphere"
     }
   ]
 }

@@ -4,30 +4,30 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "7. Robin Egg Blue"
+      "value": "Robin Egg Blue"
     },
     {
-      "trait_type": "6. Body",
+      "trait_type": "Body",
       "value": "Standard"
     },
     {
-      "trait_type": "5. Accessories ",
+      "trait_type": "Accessories",
       "value": "BUttons"
     },
     {
-      "trait_type": "4. Head",
+      "trait_type": "Head",
       "value": "Reflection"
     },
     {
-      "trait_type": "1. Ears",
+      "trait_type": "Ears",
       "value": "Standard"
     },
     {
-      "trait_type": "3. Expressions",
+      "trait_type": "Expressions",
       "value": "No Expression"
     },
     {
-      "trait_type": "2. Atrributes",
+      "trait_type": "Atrributes",
       "value": "No Attribute"
     }
   ]

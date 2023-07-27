@@ -4,22 +4,22 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "8. Lime"
+      "value": "Lime"
     },
     {
-      "trait_type": "6. Body",
+      "trait_type": "Body",
       "value": "Standard"
     },
     {
-      "trait_type": "5. Accessories ",
-      "value": "BUttons"
+      "trait_type": "Accessories",
+      "value": "Scarf"
     },
     {
-      "trait_type": "4. Head",
+      "trait_type": "Head",
       "value": "Reflection"
     },
     {
-      "trait_type": "1. Ears",
+      "trait_type": "Ears",
       "value": "Standard"
     }
   ]

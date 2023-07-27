@@ -4,30 +4,30 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "2. Azure"
+      "value": "Azure"
     },
     {
-      "trait_type": "6. Body",
+      "trait_type": "Body",
       "value": "Standard"
     },
     {
-      "trait_type": "5. Accessories ",
+      "trait_type": "Accessories",
       "value": "BUttons"
     },
     {
-      "trait_type": "4. Head",
-      "value": "Flat"
+      "trait_type": "Head",
+      "value": "Skin"
     },
     {
-      "trait_type": "1. Ears",
+      "trait_type": "Ears",
       "value": "Standard"
     },
     {
-      "trait_type": "3. Expressions",
-      "value": "2. Angry"
+      "trait_type": "Expressions",
+      "value": "Angry"
     },
     {
-      "trait_type": "2. Atrributes",
+      "trait_type": "Atrributes",
       "value": "No Attribute"
     }
   ]
